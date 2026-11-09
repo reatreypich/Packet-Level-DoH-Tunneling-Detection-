@@ -1,1 +1,9 @@
-Follow all the python file for all classification model 
+Follow all the python files for all classification models such as
+- Decision Tree as DT.py
+- Linear Regression as LR.py
+- Support Vector Machine as SVM.py
+- Random Forest as RF.py
+- K-Nearest Neighbors as KNN.py
+- Naive Bayes as NB.py
+- Gredient Boosting Classifier as GBC.py
+- Stochastic Gradient Descent Classifier as SGDC.py 
