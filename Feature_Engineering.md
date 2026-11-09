@@ -454,7 +454,10 @@ echo "Total packets: $(($(wc -l < "$OUTPUT") - 1))"
 
 ``` 
 
-
+Note : to run this script we need to provide the input: 
+```bash
+./extract_16_entropy.sh doh.pcap doh_entropy_16.csv
+```
 
 
 
