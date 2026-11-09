@@ -1,0 +1,12 @@
+#Dataset 
+This is the directory of our dataset that contains the information about our selected datasets used for DoH Tunneling traffic detection in our experiment.
+## Dataset Source 
+### Selected Open-Source Dataset
+Name: CIRA-CIC-DoHBrw-2020
+Link: https://www.unb.ca/cic/datasets/dohbrw-2020.html
+### Designed Testbed Simulated Dataset
+Name: Simulated Dataset of DoH Tunneling Traffic 
+Link: https://drive.google.com/drive/folders/1SQbJIpVzLUMWoziov9foob-2XfL1MIzU?usp=sharing
+
+##Note
+This dataset is the original pcap files and in order to be able to operate the same way we did in our experiment, we need to follow the instruction from the second section until the last part of this repository.
